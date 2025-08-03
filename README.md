@@ -3,6 +3,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BlamerX&label=Profile%20Views&color=0e75b6&style=plastic" alt="BlamerX" />
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarshkumar13/">
+    <img src="https://img.shields.io/badge/LinkedIn-AdarshKumar-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://www.kaggle.com/blamerx">
+    <img src="https://img.shields.io/badge/Kaggle-BlamerX-blue?style=flat-square&logo=kaggle" />
+  </a>
+  <a href="mailto:adarshkumar1301@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-adarshkumar1301@gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+</p>
 
 <p align="center">
   🧠 Data Science | Machine Learning | AI Enthusiast <br>
@@ -75,18 +86,6 @@
 - 🔍 Explore my notebooks: [Kaggle/blamerx](https://www.kaggle.com/blamerx)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/adarshkumar13/)
 - 💬 I'm open to collaboration on data-driven projects, ML research, or app development
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adarshkumar13/">
-    <img src="https://img.shields.io/badge/LinkedIn-AdarshKumar-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://www.kaggle.com/blamerx">
-    <img src="https://img.shields.io/badge/Kaggle-BlamerX-blue?style=flat-square&logo=kaggle" />
-  </a>
-  <a href="mailto:adarshkumar1301@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-adarshkumar1301@gmail.com-red?style=flat-square&logo=gmail" />
-  </a>
-</p>
 
 ---
 
