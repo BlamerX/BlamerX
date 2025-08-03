@@ -30,14 +30,6 @@
 
 ---
 
-## ⚒️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask,opencv,mysql,html,css,git,github,mysql,vscode" />
-</p>
-
----
-
 ## 🛠️ Skills & Tools
 
 | Domain            | Tools & Technologies                              |
@@ -47,6 +39,9 @@
 | **Data & Dev**    | OpenCV, MySQL, Kaggle, Google Colab, Git, VS Code |
 | **Visualization** | Plotly, Seaborn, Matplotlib                       |
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,flask,opencv,mysql,html,css,git,github,mysql,vscode" />
+</p>
 ---
 
 ## 🏆 GitHub Trophy Showcase
