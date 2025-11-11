@@ -26,7 +26,6 @@
         <div>
           <a href="https://www.linkedin.com/in/adarshkumar13/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
           <a href="https://www.kaggle.com/blamerx"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-          <a href="mailto:adarshkumar1301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
         </div>
       </td>
       <td align="center" width="70%">
@@ -113,8 +112,19 @@ I enjoy transforming raw data into impactful insights through machine learning, 
   </table>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlamerX&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+  <table>
+    <tr>
+      <td width="40%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlamerX&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+      </td>
+      <td width="80%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlamerX&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph"/>
+      </td>
+    </tr>
+  </table>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlamerX&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+  
 </div>
 
 ---
@@ -145,6 +155,9 @@ I enjoy transforming raw data into impactful insights through machine learning, 
       </td>
       <td>
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=blamerx_08&theme=github_dark"/>
+      </td>
+      <td>
+        <img src="https://coding-profile.vercel.app/api/check?username=blamerx_13&theme=Dark"/>
       </td>
     </tr>
   </table>
