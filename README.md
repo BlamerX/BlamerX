@@ -132,18 +132,10 @@ I enjoy transforming raw data into impactful insights through machine learning, 
 ## 🏆 Achievements & Milestones
 
 <p align="center">
-  <a href="https://leetcode.com/u/BlamerX/">
-    <img src="https://img.shields.io/badge/LeetCode-BlamerX-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode Profile">
-  </a>
-  <a href="https://www.codechef.com/users/blamerx_13">
-    <img src="https://img.shields.io/badge/CodeChef-blamerx_13-blue?style=for-the-badge&logo=codechef" alt="CodeChef Profile">
-  </a>
-  <a href="https://codeforces.com/profile/blamerx_08">
-    <img src="https://img.shields.io/badge/Codeforces-blamerx_08-red?style=for-the-badge&logo=codeforces" alt="Codeforces Profile">
-  </a>
-  <a href="https://www.hackerrank.com/profile/BlamerX">
-    <img src="https://img.shields.io/badge/HackerRank-BlamerX-green?style=for-the-badge&logo=hackerrank" alt="HackerRank Profile">
-  </a>
+  <a href="https://leetcode.com/u/BlamerX/"><img src="https://img.shields.io/badge/LeetCode-BlamerX-FFA116?style=for-the-badge&logo=leetcode"/></a>
+  <a href="https://codeforces.com/profile/blamerx_08"><img src="https://img.shields.io/badge/Codeforces-blamerx_08-58A6FF?style=for-the-badge&logo=codeforces"/></a>
+  <a href="https://www.hackerrank.com/profile/BlamerX"><img src="https://img.shields.io/badge/HackerRank-BlamerX-00EA64?style=for-the-badge&logo=hackerrank"/></a>
+  <a href="https://www.codechef.com/users/blamerx_13"><img src="https://img.shields.io/badge/CodeChef-blamerx_13-703C1C?style=for-the-badge&logo=codechef"/></a>
 </p>
 
 <div align="center">
@@ -151,7 +143,7 @@ I enjoy transforming raw data into impactful insights through machine learning, 
   <table>
     <tr>
       <td>
-         <img src="https://leetcard.jacoblin.cool/BlamerX?theme=dark&font=GFS%20Didot&ext=activity"/>
+         <img src="https://leetcard.jacoblin.cool/BlamerX?theme=dark&font=Fira%20Code&border=0&radius=10&ext=contest"/>
       </td>
       <td>
         <img src="https://codeforces-readme-stats.vercel.app/api/card?username=blamerx_08&theme=github_dark"/>
